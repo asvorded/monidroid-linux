@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "module.h": "c"
+    },
+    "files.exclude": {
+        "/usr/include/**": true
+    }
+}

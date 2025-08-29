@@ -1,0 +1,7 @@
+# Binaries and objects generated from sources
+*.mod.c
+*.ko
+*.o
+*.cmd
+Module.symvers
+modules.order
