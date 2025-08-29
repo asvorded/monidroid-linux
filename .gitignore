@@ -1,5 +1,6 @@
 # Binaries and objects generated from sources
 *.mod.c
+*.mod
 *.ko
 *.o
 *.cmd
