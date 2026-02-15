@@ -6,3 +6,10 @@
 *.cmd
 Module.symvers
 modules.order
+
+# Build directories
+build
+
+# IDEs
+.idea
+.vscode
